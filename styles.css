@@ -351,8 +351,7 @@ textarea:focus-visible {
   margin-bottom: 24px;
 }
 
-.about-grid,
-.submission-grid {
+.about-grid {
   display: grid;
   grid-template-columns: 1.2fr 0.8fr 0.8fr;
   gap: 16px;
@@ -361,7 +360,6 @@ textarea:focus-visible {
 .about-card,
 .skill-card,
 .timeline-item,
-.submission-card,
 .contact-panel {
   border: 1px solid var(--line);
   border-radius: var(--radius);
@@ -370,8 +368,7 @@ textarea:focus-visible {
 
 .about-card,
 .skill-card,
-.timeline-item,
-.submission-card {
+.timeline-item {
   padding: 26px;
 }
 
@@ -382,8 +379,7 @@ textarea:focus-visible {
 
 .about-card p,
 .skill-card p,
-.timeline-item p,
-.submission-card p {
+.timeline-item p {
   margin-bottom: 0;
   color: var(--muted);
 }
@@ -523,14 +519,6 @@ textarea:focus-visible {
   display: block;
   margin-top: 14px;
   color: var(--brand-dark);
-}
-
-.day20-section {
-  border-top: 1px solid var(--line);
-}
-
-.submission-card {
-  min-height: 220px;
 }
 
 .languages-section {
@@ -702,8 +690,7 @@ textarea:focus-visible {
     padding-top: 52px;
   }
 
-  .skills-layout,
-  .submission-grid {
+  .skills-layout {
     grid-template-columns: repeat(2, 1fr);
   }
 }
@@ -725,8 +712,7 @@ textarea:focus-visible {
   }
 
   .skills-layout,
-  .timeline,
-  .submission-grid {
+  .timeline {
     grid-template-columns: 1fr;
   }
 
@@ -752,8 +738,7 @@ textarea:focus-visible {
   .contact-form,
   .about-card,
   .skill-card,
-  .timeline-item,
-  .submission-card {
+  .timeline-item {
     padding: 22px;
   }
 

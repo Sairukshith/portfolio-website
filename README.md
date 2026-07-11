@@ -1,6 +1,6 @@
 # Alimi Sai Rukshith - AI/ML Portfolio
 
-This is a responsive personal portfolio website created for the Day 20 final submission of the HTML/CSS trainee project. The site presents my profile, technical skills, education, certifications, featured AI/ML project, resume, contact options, and deployment readiness.
+This is a responsive personal portfolio website. The site presents my profile, technical skills, education, certifications, featured AI/ML project, resume, and contact options.
 
 ## Project Highlights
 
@@ -10,7 +10,6 @@ This is a responsive personal portfolio website created for the Day 20 final sub
 - Featured case study for an AI-powered insurance risk platform
 - Contact form with browser validation and local success feedback
 - Resume PDF included in the `assets` folder
-- Relative paths for GitHub Pages and Netlify deployment
 - Accessible labels, focus states, and readable color contrast
 
 ## File Structure
@@ -36,7 +35,6 @@ Portfolio Website/
 - JavaScript
 - CSS Grid
 - Flexbox
-- GitHub Pages-ready static file structure
 
 ## Run Locally
 
@@ -52,14 +50,10 @@ Then open:
 http://localhost:5173
 ```
 
-## Final Submission Description
+## Portfolio Description
 
-Portfolio Website - Final Project Submission
+Portfolio Website
 
 This project is a responsive personal portfolio website built with HTML5, CSS3, and JavaScript. It introduces my background as a CSE Artificial Intelligence student, showcases my technical skills, presents my AI-powered insurance risk intelligence project as a case study, and provides contact links and a resume for internship review.
 
-During this project, I learned how to structure a complete website, design responsive layouts using CSS Grid and Flexbox, improve user experience with hover/focus states, prepare files for version control, and organize a project for deployment on GitHub Pages or Netlify.
-
-GitHub Repository: add your repository link here.
-
-Live Website: add your GitHub Pages or Netlify link here.
+During this project, I learned how to structure a complete website, design responsive layouts using CSS Grid and Flexbox, and improve user experience with hover and focus states.
