@@ -1,0 +1,10 @@
+# Local system files
+Thumbs.db
+.DS_Store
+
+# Editor and temporary files
+.vscode/
+*.log
+
+# Local-only generated folders
+tmp/
