@@ -20,10 +20,6 @@ Portfolio Website/
 |-- styles.css
 |-- script.js
 |-- README.md
-<<<<<<< HEAD
-
-=======
->>>>>>> 5d9a59671cc86d437fdb63f9229a1d7bf562f632
 |-- assets/
     |-- Alimi_Sai_Rukshith_Resume.pdf
     |-- favicon.svg

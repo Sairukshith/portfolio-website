@@ -8,6 +8,3 @@ Thumbs.db
 
 # Local-only generated folders
 tmp/
-
-# Helper notes for Day 20 submission; keep local unless trainer asks for it
-day-20-helper/
